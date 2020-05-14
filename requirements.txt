@@ -5,3 +5,6 @@ pandas
 seaborn 
 sklearn
 scipy
+pycodestyle
+flake8
+pycodestyle_magic
